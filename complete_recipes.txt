@@ -1,0 +1,43 @@
+[
+{
+ "name":"ensalada de lentejas",
+ "servings":2,
+ "ingredients": [
+    {"quantity": 200, "unit": "gr", "item": "lentejas"},
+    {"quantity": 2, "unit": "zanahorias"},
+    {"quantity": 1, "unit": "pimientos rojos"}
+ ],
+ "elaboration":"se trocean las verduras y se mezcla"
+},
+{
+ "name":"papillote de verduras",
+ "servings":2,
+ "ingredients": [
+    {"quantity": 2, "unit": "cebollas"},
+    {"quantity": 2, "unit": "pimientos verdes"},
+    {"quantity": 1, "unit": "pimientos rojos"}
+ ],
+ "elaboration":"se trocean las verduras, se envuelve en papel albal y al horno"
+},
+{
+ "name":"ensalada seleccion española",
+ "servings":4,
+ "ingredients": [
+    {"quantity": 1, "unit": "kg", "item": "pimientos rojos"},
+    {"quantity": 1, "unit": "kg", "item": "mangos"}
+ ],
+ "elaboration":"se trocea el mango y los pimientos rojos a tiras y se mezcla con una salsa"
+},
+{
+ "name":"arroz con verduras",
+ "servings":4,
+ "ingredients": [
+    {"quantity": 1, "unit": "kg", "item": "arroz blanco"},
+    {"quantity": 1, "unit": "kg", "item": "brocoli"},
+    {"quantity": 1, "unit": "pimientos rojos"},
+    {"quantity": 1, "unit": "pimientos verdes"}
+ ],
+ "elaboration":"se trocea el mango y los pimientos rojos a tiras y se mezcla con una salsa"
+}
+
+]
